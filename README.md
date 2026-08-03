@@ -1,4 +1,4 @@
-# 3D Environment & Material Design Portfolio
+# Environment-Texturing-and-Lighting
 
 ![Final Render](images/dnevni_render.jpg)
 
