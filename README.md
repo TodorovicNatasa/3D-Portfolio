@@ -1,5 +1,7 @@
 # 3D Environment & Material Design Portfolio
 
+![Final Render](images/dnevni_render.jpg)
+
 This repository showcases selected 3D modeling, texturing, lighting and rendering projects created as part of my coursework in **Animation Engineering & Computer Graphics** at the Faculty of Technical Sciences, University of Novi Sad.
 
 ---
@@ -19,63 +21,107 @@ This repository showcases selected 3D modeling, texturing, lighting and renderin
 - UV Mapping
 - Material Creation
 - Texture Painting
-- Interior Lighting
-- Exterior Lighting
+- Interior & Exterior Lighting
 - Rendering
-- Asset Preparation
 
 ---
 
-# Final Scene
+# Final Renders
 
-![Final Scene](images/finalni_render.png)
+### Interior – Day
 
----
+![Interior Day](images/enterijer_dnevni.jpg)
 
-# Interior
+### Interior – Night
 
-![Interior](images/interijer.png)
+![Interior Night](images/enterijer_nocni.jpg)
 
----
+### Day Render
 
-# Exterior
+![Day Render](images/dnevni_render.jpg)
 
-![Exterior](images/eksterijer.png)
+### Night Render
 
----
-
-# UV Mapping
-
-![UV](images/uv sto.png)
-
-![UV](images/uv dzezva.png)
-
-![UV](images/uv komoda.png)
-
-![UV](images/uvkauc.png)
+![Night Render](images/nocni_render.jpg)
 
 ---
 
-# Texturing
+# Asset Workflow
 
-![Lamp](images/uv lampa zid.png)
+## Coffee Pot
 
-![Table Lamp](images/uv slampa.png)
+| UV Mapping | Substance Painter | Final Model |
+|------------|-------------------|-------------|
+| ![](images/uv_dzezva.png) | ![](images/sp_dzezva.png) | ![](images/dzezva.png) |
 
-![Cup](images/uv soljica.png)
+---
+
+## Coffee Table
+
+| UV Mapping | Final Model |
+|------------|-------------|
+| ![](images/uv_sto.png) | ![](images/sto.png) |
+
+---
+
+## Sofa
+
+| UV Mapping | Substance Painter | Final Model |
+|------------|-------------------|-------------|
+| ![](images/uvkauc.png) | ![](images/sp_kauc.png) | ![](images/kauc.png) |
+
+---
+
+## Cabinet
+
+| UV Mapping | Substance Painter | Final Model |
+|------------|-------------------|-------------|
+| ![](images/uv_komoda.png) | ![](images/sp_komoda.png) | ![](images/komoda.png) |
+
+---
+
+## Wall Lamp
+
+| UV Mapping | Texture | Final Model |
+|------------|----------|-------------|
+| ![](images/uv_lampazid.png) | ![](images/tekstura_lampa_zid.png) | ![](images/lampa_zid.png) |
+
+---
+
+## Table Lamp
+
+| UV Mapping | Substance Painter | Final Model |
+|------------|-------------------|-------------|
+| ![](images/uv_slampa.png) | ![](images/sp_slampa.png) | ![](images/slampa.png) |
+
+---
+
+## Cup
+
+
+| UV Mapping | Texture | Final Model |
+|------------|----------|-------------|
+| ![](images/uv_soljica.png) | ![](images/tektura_soljica.png) | ![](images/soljica.png) |
+---
+
+## Swing
+
+| Texture | Final Model |
+|----------|-------------|
+| ![](images/tekstura_ljuljaska.png) | ![](images/ljuljaska.png) |
 
 ---
 
 ## Workflow
 
-The project included:
+This project demonstrates the complete workflow for creating a 3D environment:
 
-- 3D Modeling
-- UV Unwrapping
-- Material Creation
+- 3D asset modeling
+- UV unwrapping
+- Material creation
 - Texturing in Adobe Substance 3D Painter
-- Lighting Setup
-- Final Rendering
+- Interior and exterior lighting
+- Final rendering using V-Ray
 
 ---
 
@@ -83,6 +129,5 @@ The project included:
 
 **Nataša Todorović**
 
-Animation Engineering & Computer Graphics Student
-
+Animation Engineering & Computer Graphics Student  
 Faculty of Technical Sciences, University of Novi Sad
