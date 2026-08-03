@@ -1,2 +1,2 @@
 # 3D-Portfolio
-Portfolio of 3D modeling and texturing projects created using Autodesk 3ds Max and Adobe Substance 3D Painter
+Portfolio of 3D texturing, lighting and rendering projects created in Autodesk 3ds Max and Adobe Substance 3D Painter.
