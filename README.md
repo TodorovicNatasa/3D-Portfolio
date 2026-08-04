@@ -2,8 +2,7 @@
 
 ![Final Render](images/dnevni_render.jpg)
 
-This repository showcases selected 3D modeling, texturing, lighting and rendering projects created as part of my coursework in **Animation Engineering & Computer Graphics** at the Faculty of Technical Sciences, University of Novi Sad.
-
+This repository presents a complete 3D environment workflow, including UV mapping, material creation, texturing, lighting, and rendering, created using Autodesk 3ds Max, Adobe Substance 3D Painter, and V-Ray.
 ---
 
 ## Software
@@ -28,19 +27,19 @@ This repository showcases selected 3D modeling, texturing, lighting and renderin
 
 # Final Renders
 
-### Interior – Day
+### Interior – Day Render
 
 ![Interior Day](images/enterijer_dnevni.jpg)
 
-### Interior – Night
+### Interior – Night Render
 
 ![Interior Night](images/enterijer_nocni.jpg)
 
-### Day Render
+### Exterior - Day Render
 
 ![Day Render](images/dnevni_render.jpg)
 
-### Night Render
+### Exterior - Night Render
 
 ![Night Render](images/nocni_render.jpg)
 
