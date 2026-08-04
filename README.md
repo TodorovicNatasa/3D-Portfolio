@@ -111,16 +111,114 @@ This repository presents a complete 3D environment workflow, including UV mappin
 
 ---
 
+## Armchair
+
+| UV Mapping | Texture | Final Model |
+|------------|----------|-------------|
+| ![](images/UV_maping_armchair.png) | ![](images/texture_armchair.png) | ![](images/armchair_final.png) |
+
+---
+
+## Table
+
+| UV Mapping | Texture | Final Model |
+|------------|----------|-------------|
+| ![](images/uv_maping_table.png) | ![](images/texture_table.png) | ![](images/final_table.png) |
+
+---
+
+## Library
+
+| Texture | Final Model |
+|----------|-------------|
+| ![](images/library_texture.png) | ![](images/library_final.png) |
+
+---
+
+## Fence
+
+| UV Mapping | Texture | Final Model |
+|------------|----------|-------------|
+| ![](images/UV_mapin_fence.png) | ![](images/texture_fence.png) | ![](images/fence_final.png) |
+
+---
+
+## Garden Table
+
+| UV Mapping | Texture | Final Model |
+|------------|----------|-------------|
+| ![](images/UV_mapin_garden_table.png) | ![](images/texture_garden_table.png) | ![](images/garden_table_final.png) |
+
+---
+
+## Well
+
+| UV Mapping | Texture | Final Model |
+|------------|----------|-------------|
+| ![](images/UV_maping_well.png) | ![](images/texture_well.png) | ![](images/well_final.png) |
+
+---
+
+# Lighting Workflow
+
+## Interior Lamp
+
+| Scene Setup | Final Render |
+|-------------|--------------|
+| ![](images/lamp_light_setup.png) | ![](images/lamp_light_final.png) |
+
+---
+
+## Picture Lighting
+
+| Scene Setup | Final Render |
+|-------------|--------------|
+| ![](images/picture_lamp_light_setup.png) | ![](images/picture_lamp_light_final.png) |
+
+---
+
+## Lantern Lighting
+
+| Scene Setup | Final Render |
+|-------------|--------------|
+| ![](images/lantern_light_setup.png) | ![](images/lantern_light_final.png) |
+
+---
+
+## Exterior Lantern
+
+| Scene Setup | Final Render |
+|-------------|--------------|
+| ![](images/outside_lantern_light_setup.png) | ![](images/outside_lantern_light_final.png) |
+
+---
+
+## Vehicle Lighting
+
+| Scene Setup | Final Render |
+|-------------|--------------|
+| ![](images/car_light_setup.png) | ![](images/car_light_final.png) |
+
+---
+
+## Fairy Lighting 
+
+| Scene Setup | Final Render |
+|-------------|--------------|
+| ![](images/light_1_setup.png) | ![](images/light_1_final.png) |
+
 ## Workflow
 
 This project demonstrates the complete workflow for creating a 3D environment:
 
-- 3D asset modeling
-- UV unwrapping
-- Material creation
-- Texturing in Adobe Substance 3D Painter
-- Interior and exterior lighting
-- Final rendering using V-Ray
+- Environment Modeling
+- UV Mapping
+- Material Creation
+- Texture Painting
+- Interior & Exterior Asset Creation
+- Interior & Exterior Lighting
+- V-Ray Rendering
+- Final Scene Presentation
 
 ---
 
